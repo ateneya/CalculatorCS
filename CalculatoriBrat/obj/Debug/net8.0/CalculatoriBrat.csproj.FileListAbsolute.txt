@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.AssemblyInfo.cs
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\bin\Debug\net8.0\CalculatoriBrat.exe
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\bin\Debug\net8.0\CalculatoriBrat.deps.json
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\bin\Debug\net8.0\CalculatoriBrat.runtimeconfig.json
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\bin\Debug\net8.0\CalculatoriBrat.dll
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\bin\Debug\net8.0\CalculatoriBrat.pdb
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.dll
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\refint\CalculatoriBrat.dll
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.pdb
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\CalculatoriBrat.genruntimeconfig.cache
+C:\Users\Student\source\repos\CalculatoriBrat\CalculatoriBrat\obj\Debug\net8.0\ref\CalculatoriBrat.dll
