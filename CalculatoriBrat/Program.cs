@@ -1,26 +1,31 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using CalculatoriBrat.Class;
-using CalculatoriBrat.Class.Interface;
+using CalculatoriBrat.BasicCalculators;
+using CalculatoriBrat.BasicCalculators.Interface;
+using CalculatoriBrat.Advanced_Calculator;
+using CalculatoriBrat.AdvancedCalculator.Interface;
 
 
 
+//while (true) {
+//    ICalculatorBasic _calc = new Calcutaorcs();
+
+//    Console.Write("Did u want use app? Yes/No");
+//    var answer = Console.ReadLine().Trim().ToLower();
+
+//    if (answer == "yes")
+//    {
+
+//        Console.WriteLine(_calc.Addition(5, 5));
+
+//    }
+//    else
+//    {
+//        Console.WriteLine("Goodbye");
+//        break;
+//    }
+
+//}
 while (true) {
-    ICalculatorBasic _calc = new Calcutaorcs();
-
-    Console.Write("Did u want use app? Yes/No");
-    var answer = Console.ReadLine().Trim().ToLower();
-
-    if (answer == "yes")
-    {
-
-        Console.WriteLine(_calc.Addition(5, 5));
-
-    }
-    else
-    {
-        Console.WriteLine("Goodbye");
-        break;
-    }
-
-}
+Calcutaorcs calcutaorcs = new Calcutaorcs();
+calcutaorcs.Tan 
