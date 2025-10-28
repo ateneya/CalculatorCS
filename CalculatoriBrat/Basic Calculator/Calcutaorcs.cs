@@ -1,4 +1,4 @@
-﻿using CalculatoriBrat.BasicCalculator.Interface;
+﻿using CalculatoriBrat.BasicCalculators.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace CalculatoriBrat.BasicCalculator
+namespace CalculatoriBrat.BasicCalculators
 {
     internal class Calcutaorcs : ICalculatorBasic
     {
