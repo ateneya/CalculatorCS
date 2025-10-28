@@ -12,5 +12,6 @@ namespace CalculatoriBrat.BasicCalculators.Interface
         double Substraction(double value1, double value2);
         double Multiplication(double value1, double value2);
         double Division(double value1, double value2);
+        double Calculate(double num1, double num2, char operation);
     }
 }

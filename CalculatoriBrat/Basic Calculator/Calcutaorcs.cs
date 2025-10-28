@@ -15,6 +15,11 @@ namespace CalculatoriBrat.BasicCalculators
             return valuel + valuel2;
         }
 
+        public double Calculate(double num1, double num2, char operation)
+        {
+            return num1 + num2; 
+        }
+
         public double Division(double valuel, double valuel2)
         {
             return valuel / valuel2;
