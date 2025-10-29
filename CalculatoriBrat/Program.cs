@@ -54,14 +54,53 @@ namespace CalculatorApp
                     Console.WriteLine("второе число:");
                     double num2 = Convert.ToDouble(Console.ReadLine());
 
-                    try
+                    if (operation == '+')
                     {
-                        double result = calculator.Calculate(num1, num2, operation);
-                        Console.WriteLine($"Результат: {result}");
+                        try
+                        {
+                            double result = calculator.Calculate(num1, num2, operation);
+                            Console.WriteLine($"Результат: {result}");
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"ошибка: {ex.Message}");
+                        }
                     }
-                    catch (Exception ex)
+                    if (operation == '/')
                     {
-                        Console.WriteLine($"ошибка: {ex.Message}");
+                        try
+                        {
+                            double result = calculator.Division(num1, num2, operation);
+                            Console.WriteLine($"Результат: {result}");
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"ошибка: {ex.Message}");
+                        }
+                    }
+                    if (operation == '-')
+                    {
+                        try
+                        {
+                            double result = calculator.Substraction(num1, num2, operation);
+                            Console.WriteLine($"Результат: {result}");
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"ошибка: {ex.Message}");
+                        }
+                    }
+                    if (operation == '*')
+                    {
+                        try
+                        {
+                            double result = calculator.Multiplication(num1, num2, operation);
+                            Console.WriteLine($"Результат: {result}");
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine($"ошибка: {ex.Message}");
+                        }
                     }
 
                     Console.WriteLine("продолжить хочешь? (y/n):");

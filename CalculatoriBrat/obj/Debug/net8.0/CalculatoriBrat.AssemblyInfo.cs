@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculatoriBrat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81054456c382279a756ff5e7376941bb1d5d8eea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a788d6e9b53833c32a9b0ba2bb59643a8c1a7658")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculatoriBrat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculatoriBrat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

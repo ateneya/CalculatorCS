@@ -10,7 +10,7 @@ namespace CalculatoriBrat.BasicCalculators
 {
     internal class Calcutaorcs : ICalculatorBasic
     {
-        public double Addition(double valuel, double valuel2)
+        public double Addition(double valuel, double valuel2, char operation)
         {
             return valuel + valuel2;
         }
@@ -20,17 +20,17 @@ namespace CalculatoriBrat.BasicCalculators
             return num1 + num2; 
         }
 
-        public double Division(double valuel, double valuel2)
+        public double Division(double valuel, double valuel2, char operation)
         {
             return valuel / valuel2;
         }
 
-        public double Multiplication(double valuel, double valuel2)
+        public double Multiplication(double valuel, double valuel2, char operation)
         {
             return valuel * valuel2;
         }
 
-        public double Substraction(double valuel, double valuel2)
+        public double Substraction(double valuel, double valuel2, char operation)
         {
             return valuel - valuel2;
        
